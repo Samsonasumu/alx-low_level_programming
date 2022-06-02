@@ -5,7 +5,8 @@
  *
  *
  *
- * some betty stle comment to show start of execution of my programm**/
+ *main is the start of my execution
+ */
 int main(void)
 {
 	printf("with proper grammar,but the outcome is a piece of art\n");
