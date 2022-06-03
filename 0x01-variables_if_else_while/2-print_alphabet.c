@@ -15,7 +15,7 @@ for (alph = 'a'; alph <= 'z'; alph++)
 {
 putchar(toupper(alph));
 }
-putchar('\n');
+
 return (0);
 }
 
