@@ -1,6 +1,6 @@
 #include <stdio.h>
 /*
- *main prints all combinations of three different digits 
+*main prints all combinations of three different digits 
 * in ascending order separated by a comma followed by a space
 */
 int main(void)
@@ -18,7 +18,6 @@ if (dig1 == 7 && dig2 == 8 && dig3 == 9)
 continue;
 putchar(',');
 putchar(' ');
-}
 }
 }
 putchar('\n');
