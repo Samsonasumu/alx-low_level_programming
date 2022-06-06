@@ -1,9 +1,8 @@
 #include <stdio.h>
 /**
- *
- * main first prints alphabets in lowercase
- * it always return 0
-*/
+ * main - the start of excecution
+ * Return: always 0
+ */
 int main(void)
 {
 char alph;
