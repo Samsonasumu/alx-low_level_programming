@@ -1,8 +1,8 @@
 #include <stdio.h>
-/*
-*main prints all combinations of three different digits 
-* in ascending order separated by a comma followed by a space
-*/
+/**
+ * main - start of ececution
+ * Return: always 0 for sucess
+ */
 int main(void)
 {
 int dig1, dig2, dig3;
