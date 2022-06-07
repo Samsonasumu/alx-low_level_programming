@@ -2,7 +2,7 @@
 /**
  * main : prints putcharv followed by a new line 
  * Return - always
- */
+*/
 int main(void)
 {
 	_putchar('_');
@@ -14,6 +14,5 @@ int main(void)
 	_putchar('a');
 	_putchar('r');
 	_putchar('\n');
-
 	return (0);
 }
