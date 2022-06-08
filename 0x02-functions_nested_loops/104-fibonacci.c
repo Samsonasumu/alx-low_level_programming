@@ -3,7 +3,7 @@
  * main - locates and prints the first 98 fibonnacci
  * Return: always 0
  */
-int main(void);
+int main(void)
 {
 	unsigned long int i, j, k, j1, j2, k1, k2;
 
