@@ -1,4 +1,4 @@
-#include <stdio.
+#include <stdio.h>
 /**
  * main - prints the number of command line arguments
  * @argc: number of command line arguments
