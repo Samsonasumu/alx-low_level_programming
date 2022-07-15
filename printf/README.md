@@ -1,0 +1,1 @@
+printf sam and stanley
