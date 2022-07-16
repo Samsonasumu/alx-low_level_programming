@@ -1,1 +1,1 @@
-printf sam and stanley
+sam stanley printf
