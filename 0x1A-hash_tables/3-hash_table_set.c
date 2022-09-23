@@ -2,7 +2,7 @@
 
 /**
  * hash_table_set - creates a new hash node
- * @ht: hash table
+ * @ht: the hash table 
  * @key: string used to generate value
  * @value: size of the hash table
  *
