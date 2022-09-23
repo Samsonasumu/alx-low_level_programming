@@ -1,1 +1,1 @@
-Hash tables
+Hash tables operations task
