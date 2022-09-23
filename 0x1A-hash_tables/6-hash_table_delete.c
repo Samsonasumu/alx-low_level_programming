@@ -1,7 +1,7 @@
 #include "hash_tables.h"
 
 /**
- * hash_table_delete - frees
+ * hash_table_delete - free or deletes a hashtable
  * @ht: hast table where we are going to work
  *
  * Return: None
