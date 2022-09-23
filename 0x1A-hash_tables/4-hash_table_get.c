@@ -1,7 +1,7 @@
 #include "hash_tables.h"
 /**
  * hash_table_get - retrieves a value associated with a key
- * @ht: hast table where we are going to work
+ * @ht: hast table where we wor:k
  * @key: key to use in order to find index , therefore value
  *
  * Return: value associated with key or null if key could'nt be found
