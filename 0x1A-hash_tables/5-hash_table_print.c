@@ -2,7 +2,7 @@
 
 /**
  * hash_table_print - prints elements from hash table
- * @ht: hast table where we are going to work
+ * @ht: hash  table where we are going to work
  *
  * Return: None
  */
